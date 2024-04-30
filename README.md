@@ -2,7 +2,9 @@
 Additional admission requirements for my application at NHL Stenden - Computer Vision & Data Science.
 
 In the folder "Personal Programming Code Example," you'll find the code of a simple Java application I created for school purposes. Additionally, I'll be able to screenshare some recent code I wrote during the interview.
+
 In the folder "Solution Programming Assignments," you'll find both the debugging script I needed to solve and the one I solved.
+
 Below you'll find my personal statement.
 
 # Personal Statement
